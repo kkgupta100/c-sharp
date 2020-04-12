@@ -2,3 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 /CSharpDemos/.vs/CSharpDemos/v16
+/CSharpDemos/NamedAndOptionalArguments/bin/Debug/netcoreapp3.1
+/CSharpDemos/NamedAndOptionalArguments/obj
