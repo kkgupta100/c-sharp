@@ -2,7 +2,10 @@
 
 namespace NamedAndOptionalArguments
 {
-    public class NamedExample
+    /// <summary>
+    /// Example of "Named Arguments"
+    /// </summary>
+    public class Order
     {
         /// <summary>
         /// Prints order details on console screen.

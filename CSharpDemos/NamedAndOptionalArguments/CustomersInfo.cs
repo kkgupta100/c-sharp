@@ -4,7 +4,10 @@ using NamedAndOptionalArguments.Data;
 
 namespace NamedAndOptionalArguments
 {
-    public class OptionalExample
+    /// <summary>
+    /// Example of "Optional Arguments"
+    /// </summary>
+    public class CustomersInfo
     {
         /// <summary>
         /// Prints active customers on console screen.
