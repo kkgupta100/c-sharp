@@ -2,10 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 /CSharpDemos/.vs/CSharpDemos/v16
-/CSharpDemos/NamedAndOptionalArguments/bin/Debug/netcoreapp3.1
-/CSharpDemos/NamedAndOptionalArguments/obj
 /CSharpDemos/.vs/CSharpDemos/DesignTimeBuild
 /CSharpDemos/NamedArgumentsDemo/obj
 /CSharpDemos/OptionalArgumentsDemo/obj
 /CSharpDemos/NamedArgumentsDemo/bin/Debug/netcoreapp3.1
 /CSharpDemos/OptionalArgumentsDemo/bin/Debug/netcoreapp3.1
+/CSharpDemos/NamedArgumentsDemo/NamedArgumentsDemo.csproj.user
