@@ -7,3 +7,5 @@
 /CSharpDemos/.vs/CSharpDemos/DesignTimeBuild
 /CSharpDemos/NamedArgumentsDemo/obj
 /CSharpDemos/OptionalArgumentsDemo/obj
+/CSharpDemos/NamedArgumentsDemo/bin/Debug/netcoreapp3.1
+/CSharpDemos/OptionalArgumentsDemo/bin/Debug/netcoreapp3.1
