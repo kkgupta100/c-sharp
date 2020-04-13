@@ -4,3 +4,6 @@
 /CSharpDemos/.vs/CSharpDemos/v16
 /CSharpDemos/NamedAndOptionalArguments/bin/Debug/netcoreapp3.1
 /CSharpDemos/NamedAndOptionalArguments/obj
+/CSharpDemos/.vs/CSharpDemos/DesignTimeBuild
+/CSharpDemos/NamedArgumentsDemo/obj
+/CSharpDemos/OptionalArgumentsDemo/obj
